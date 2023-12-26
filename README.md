@@ -52,5 +52,6 @@ As for the data transformation and design of the data mart, here's a brief summa
 
 This sales dashboard was crafted using Google Looker Studio, providing comprehensive insights into Salicyl sales performance. The visualizations and analytics were designed to facilitate informed decision-making and enhance understanding of customer purchasing trends and revenue patterns.
 
-![Dasboard](https://github.com/riyouuyt/VIX-Salicy-Sales-Dashboard/assets/122600889/993171d7-e142-4be3-9d36-25382aa3165d)
+
+![Screenshot 2023-12-26 155053](https://github.com/riyouuyt/VIX-Salicy-Sales-Dashboard/assets/122600889/0044ba8f-8e3d-4dba-bb76-f80323b036f1)
 
