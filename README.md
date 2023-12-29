@@ -47,11 +47,17 @@ As for the data transformation and design of the data mart, here's a brief summa
    * Aggregation functions were applied:
      * Counting the distinct number of products per invoice.
      * Summation of the total price for each product within an invoice.
+    
+3. Data Mart Result:
+   
+![Screenshot 2023-12-29 165633](https://github.com/riyouuyt/VIX-Salicy-Sales-Dashboard/assets/122600889/fb9849b7-faea-4238-8500-cd74c7498c69)
+
 
 ## Design The Dasboard
 
 This sales dashboard was crafted using Google Looker Studio, providing comprehensive insights into Salicyl sales performance. The visualizations and analytics were designed to facilitate informed decision-making and enhance understanding of customer purchasing trends and revenue patterns.
 
 
-![Screenshot 2023-12-26 155053](https://github.com/riyouuyt/VIX-Salicy-Sales-Dashboard/assets/122600889/0044ba8f-8e3d-4dba-bb76-f80323b036f1)
+![Dashboard](https://github.com/riyouuyt/VIX-Salicy-Sales-Dashboard/assets/122600889/8cf3bd3e-cae0-486e-98de-95e8d5eedf32)
+
 
